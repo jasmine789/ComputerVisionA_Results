@@ -1,10 +1,10 @@
 # computerVision A
 This repo contains some crucial computer vision tasks including: <br>
-•	Homography which warps an image took by phone into an image similar to the one obtained through a scanner - hw2 <br>
-•	Photometric Stereo, Specularity Removal and Surface Rendering - hw2 & hw3 <br>
-•	Edge Detection with Non-Maximum Suppression - hw3 <br>
-•	Implementing multiple sparse stereo matching methods - hw4 <br>
-•	Implement Optical Flow with Multi-resolution Lucas-Kanade - hw5 <br>
+•	Homography which warps an image taken by phone into an image similar to the one obtained through a scanner <br>
+•	Photometric Stereo, Specularity Removal and Surface Rendering<br>
+•	Edge Detection with Non-Maximum Suppression<br>
+•	Implementing multiple sparse stereo matching methods<br>
+•	Implement Optical Flow with Multi-resolution Lucas-Kanade<br>
 
 ## Homework Results Demonstration
 
